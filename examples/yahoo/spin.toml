@@ -33,7 +33,7 @@ allowed_outbound_hosts = [
 ]
 
 [[trigger.oracle.capabilities]]
-data = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+data = "Awv84i6KMZ2jDSne4kRglYvkTSaWeyO2j4pi5YH7"
 id = "YAHOO_API_KEY"
 
 [component.yahoo.build]
