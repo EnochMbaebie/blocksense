@@ -1,1 +1,5 @@
+The Documentation is well structure, sections like Architecture,Data Feeds, and Integration Guides helps me navigate efficiently.
 
+On the Technical side, components like FeedRegistry, ChainlinkProxy, and HistoricDataFeedStore provide better understanding of the platform​ and on the side of developer friendly, the guides has been helpful in using the data feeds to integrate with smart contract.
+
+Few recommendation from me is simply including more showcase of practical applications, success stories, video tutorials will help to simplify complex concepts.
